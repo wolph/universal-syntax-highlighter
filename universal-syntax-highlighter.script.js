@@ -1,7 +1,7 @@
 // ==UserScript==
 // @id             prism-highlight@wol.ph
 // @name           Universal Syntax Highlighter
-// @version        1.4.2
+// @version        1.4.3
 // @namespace      http://wol.ph
 // @author         Rick van Hattem <Wolph@wol.ph> http://github.com/wolph/
 // @description    Automatically syntax highlights plain text source code URLs in several languages. Based on the SpiralX auto highlighter
